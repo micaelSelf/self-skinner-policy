@@ -1,23 +1,23 @@
-Privacy Policy  
+Skinner Privacy Policy
 ----------------
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at Self Solutions LTDA, how Self Solutions LTDA uses it, and what choices you have.
-Self Solutions LTDA built the Skinner App. This SERVICE is provided by *[Self Solutions LTDA/Skinner]*.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
+Self Solutions LTDA built the Skinner App. This SERVICE is provided by Self Solutions LTDA.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does not use third party services. 
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
+The app does not use third-party services for data sharing or advertising, beyond standard operational libraries required for the Service. We may request access to your device's camera or photo gallery to allow you to upload a profile picture / post photos within the app. We may request access to your device's camera or photo gallery to allow you to upload a profile picture / post photos within the app.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+The Service does not use "cookies" explicitly. However, the app may incorporate code and libraries from third-party services (such as operating system frameworks or analytical tools) that may use tracking technologies, including "cookies" or similar identifiers, to collect information and improve their services. You have the option to either accept or refuse these cookies.
 
 ### Location Information  
-We don't use this information within the necessary  scope for the designated service.  
+We do not collect or process precise geographical location data from your device. If this practice changes in the future, we will update this policy and request your explicit consent.
 
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
@@ -29,14 +29,12 @@ We may employ third-party companies and individuals due to the following reasons
 * To perform Service-related services; or
 * To assist us in analyzing how our Service is used.  
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
 ### Data Deletion and User Rights
 Users have the right to request the deletion of their personal data and account at any time. To request data deletion, you can:
 
-Use the "Delete Account" by Contact us via email at contato@selfsolutions.com.br with the subject "Data Deletion Request".
+Contact us via email at contato@selfsolutions.com.br with the subject "Data Deletion Request".
 
-Upon receiving a request, we will delete your account and associated personal data within [X] days, identifying you by your registered email address, unless we are required by law to retain certain information.
+Upon receiving a request, we will delete your account and associated personal data within 30 days, identifying you by your registered email address, unless we are required by law to retain certain information.
 
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
@@ -50,4 +48,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: contato@selfsolutions.com.br 
+Email: contato@selfsolutions.com.br
